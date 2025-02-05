@@ -28,7 +28,6 @@ class EmployeeWageComputation:
         print(f"Total Days Worked: {working_days}")
         print("-" * 30)
 
-
 EmployeeWageComputation.calculate_wages("Company A", 20, 100, 20)
 EmployeeWageComputation.calculate_wages("Company B", 25, 120, 22)
 EmployeeWageComputation.calculate_wages("Company C", 18, 90, 18)
